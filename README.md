@@ -12,7 +12,7 @@ If the agent(car) is initialized to move at a speed less than 50km/h.
 
 For the code Adonia5.py it is based on tensorflow 2.0 and keras 2.3.0, for version compatibility issues, when running the code the tensorflow v2 is disabled and version 2 of tensorflow that is compatible with version 1 of tensorflow is enabled
 
-Other packages that should be installed//
+Other packages that should be installed
 Numpy
 pillow
 future
