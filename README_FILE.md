@@ -54,18 +54,11 @@ pip install keras ==2.2.4 # for a specific version of keras if required
 
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
 ```
 create an environment in anaconda
 conda create -n collision_avoidance python 3.7
 ```
 
-And repeat
-
-```
-conda activate collision_avoidance
-```
 ```
 ~path/CarlaUE4.exe
 ```
@@ -97,7 +90,9 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-run 
+run RL_Adonia.p for training and the models folder is formed under the examples folder showing how the model is improving or not
+Then run RL_Agent.py and see how the agent is running generating the q-values which it uses to give a reward or penality incase of a collision.
+For any errors that you may encouter visit stackoverflow at https://stackoverflow.com/
 
 ### Break down into end to end tests
 
@@ -127,7 +122,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [CARLA_0.9.5](http://carla.org/2019/04/03/release-0.9.5/) for versioning.
 
 ## Authors
 
@@ -141,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* Harrison Sentdex
 * Inspiration
 * etc
 
