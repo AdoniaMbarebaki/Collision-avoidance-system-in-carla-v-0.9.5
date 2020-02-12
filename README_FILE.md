@@ -25,7 +25,7 @@ Downlaod Anaconda 3 with python 3.7 at https://www.anaconda.com/distribution/
 
 
 ### Installing
-Downlaoding and installing the simulator when extracted has a PythonAPI folder that has supporting files like manual_control.py.
+Downloading and installing the simulator when extracted has a PythonAPI folder that has supporting files like manual_control.py.
 Carla simulator by default uses ports 2000, 2001 and 2002
 For Carla manaual go to https://carla.readthedocs.io/en/latest/
 Launch the simulator by running CarlaUE4.exe script from command prompt specifying the folder path where it is located.
