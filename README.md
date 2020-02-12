@@ -87,14 +87,6 @@ run RL_Adonia.py for training and the models folder is formed under the examples
 Then run RL_Agent.py and see how the agent is running generating the q-values which it uses to give a reward or penality incase of a collision.
 For any errors that you may encouter visit stackoverflow at https://stackoverflow.com/
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
 ### And coding style
 
 Python langauge due to its robustness with Machine learning algorithms
