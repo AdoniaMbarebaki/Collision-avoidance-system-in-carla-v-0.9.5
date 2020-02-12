@@ -16,7 +16,7 @@ Keras 2.2.4
 pillow
 opencv 
 
-###What things you need to install the software and how to install them
+### What things you need to install the software and how to install them
 Carla simulator version 0.9.5 requires a laptop of atleast 8GB RAM, and dedictated graphics of AMD or NVIDIA preferrably NVIDIA
 After downloading and installing the simulator, add the folder to the environment path in the environment path variables
 Downlaod Anaconda 3 with python 3.7 at https://www.anaconda.com/distribution/
