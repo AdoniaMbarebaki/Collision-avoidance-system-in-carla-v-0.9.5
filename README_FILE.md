@@ -1,6 +1,6 @@
 # Project Title
 
-Implementation of a Machine learning based collision avoidance system for vehicles using Reinforcement Learning
+Implementation of a Machine learning based forward collision avoidance system for vehicles using Reinforcement Learning
 
 ## Getting Started
 This is a reinforcement learning project based on Carla simulator version 0.9.5. These python scripts are built on Carla simulator python API, therefore must be run from within the folder.
@@ -30,8 +30,6 @@ Carla simulator by default uses ports 2000, 2001 and 2002
 For Carla manaual go to https://carla.readthedocs.io/en/latest/
 Launch the simulator by running CarlaUE4.exe script from command prompt specifying the folder path where it is located.
 
-
-
 ```
 pip install opencv
 ```
@@ -47,9 +45,6 @@ pip install tensorflow == 1.13.1 #for a specific version of tensorflow if requir
 ```
 pip install keras ==2.2.4 # for a specific version of keras if required
 ```
-
-
-
 
 A step by step series of examples that tell you how to get a development env running
 
