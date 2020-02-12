@@ -7,11 +7,13 @@ This is a reinforcement learning project based on Carla simulator version 0.9.5.
 Note, this is still under development using reinforcement learning
 
 ### Prerequisites
-For the above project to be up and running a the following dependencies must be satisfied.
+For the above project to be up and running, the following dependencies must be satisfied.
 CARLA_0.9.5 Simulator available on http://carla.org/2019/04/03/release-0.9.5/
 Python 3.7.X, all versions above 3.7
 Anaconda IDE python 3.7
+```
 Tensorflow 1.13.1 # for cpu and for gpu install tensorflow-gpu
+```
 Keras 2.2.4
 pillow
 opencv 
@@ -21,9 +23,6 @@ Carla simulator version 0.9.5 requires a laptop of atleast 8GB RAM, and dedictat
 After downloading and installing the simulator, add the folder to the environment path in the environment path variables
 Downlaod Anaconda 3 with python 3.7 at https://www.anaconda.com/distribution/
 
-```
-Give examples
-```
 
 ### Installing
 Downlaoding and installing the simulator when extracted has a PythonAPI folder that has supporting files like manual_control.py.
@@ -137,6 +136,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Harrison Sentdex
-* Inspiration
+* 
 * etc
 
