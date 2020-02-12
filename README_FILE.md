@@ -76,9 +76,7 @@ This pops up a window showing the training process of the agent within the Carla
 After training episodes say 100 or 1000 the log events are recorded in the folder and the scalars can be visualized using a tensorboard.
 These include the rewards of the agent as it explores the environment.
 For Tensorboard tutorial go to https://github.com/tensorflow/tensorboard
-```
 
-```
 ```
 ~anacondapath/tensorboard --logdir = ~path/logs/tf.events
 ```
@@ -89,7 +87,7 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-run RL_Adonia.p for training and the models folder is formed under the examples folder showing how the model is improving or not
+run RL_Adonia.py for training and the models folder is formed under the examples folder showing how the model is improving or not
 Then run RL_Agent.py and see how the agent is running generating the q-values which it uses to give a reward or penality incase of a collision.
 For any errors that you may encouter visit stackoverflow at https://stackoverflow.com/
 
