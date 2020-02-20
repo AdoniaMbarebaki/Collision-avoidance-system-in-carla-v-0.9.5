@@ -76,10 +76,12 @@ For Tensorboard tutorial go to https://github.com/tensorflow/tensorboard
 ```
 ~anacondapath/tensorboard --logdir = ~path/logs/tf.events
 ```
-The graphical results are shown in the files above i.e average rewards, maximum and minimum reward for the first training of 100 episodes and also for the second training of 1000 episodes
+The graphical results are shown in the files above i.e average rewards, maximum and minimum reward for the first training of 100 episodes and also for the second training of 1000 episodes for Xception model pretrained on ImageNet dataset.
+
+The graphical results are shown in the folders of results for both 100 and 1000 episodes, it was shown that Sequential model outperformed Xception model for during the training process as shown in the graphs. Sequential model is a 64x3 model
 The graphs can be visualized at port 6006 in any browser preferrably Google chrome
 
-End with an example of getting some data out of the system or using it for a little demo
+The demonstration of the training using sequential model is at the following link to google drive https://drive.google.com/drive/u/1/folders/1fc8kHq-mNITIew0v-6sTC9dhsqG5KUbC
 
 ## Running the tests
 
