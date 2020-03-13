@@ -1,7 +1,7 @@
 
 # Project Title
 
-Implementation of a Machine learning based forward collision avoidance system for vehicles using Reinforcement Learning
+Design of a Machine learning based forward collision avoidance algorithm for vehicles using Reinforcement Learning
 
 ## Getting Started
 This is a reinforcement learning project based on Carla simulator version 0.9.5. These python scripts are built on Carla simulator python API, therefore must be run from within the folder.
